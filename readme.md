@@ -6,6 +6,10 @@ The work done here is purely from the contributors who donate their time and eff
 WeMod (the company) makes WeMod (the mod tool).  
 We (`wemod-launcher`) enable you to run it on Linux (and by extension, the Steam Deck).
 
+## Main Repo
+**You are probably looking for the wemod-launcher that will autodownload these files,**  
+**Here is a link to wemod-launcher: https://github.com/DeckCheatz/wemod-launcher**
+
 ## Info
 This is the wemod-laucher repo,  
 from which the ready to play WeMod Prefixes are published from.  
